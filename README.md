@@ -1,3 +1,7 @@
+# Notice
+
+This is an old version of the Rebuild project that utilizes Lidgren/UDP for networking. This version of the project is no longer maintained and development shifted to a websocket remake of the server. You can find the new version at: https://github.com/Doddler/RagnarokRebuildTcp
+
 # Ragnarok Rebuild
 
 Server and client for a Ragnarok Online-like game. Some assembly required.
